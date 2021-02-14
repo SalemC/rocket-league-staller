@@ -2,7 +2,12 @@
 
 A quick and easy way to stall in Rocket League on a Windows PC.
 
-Simply run `Release/staller.exe`, then press the back mouse thumb button to perform a perfect stall!
+### How To Use
+
+1. Run `Release/staller.exe`.
+2. Press <kbd>Mouse Button 5</kbd> in-game!
+
+If you want to close the program whilst in-game, press <kbd>END</kbd> on your keyboard.
 
 ### Disclaimer
 
