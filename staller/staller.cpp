@@ -34,7 +34,7 @@ void Staller::run() {
 
 		this->sleep(10);
 
-		if (!this->isPressed(VK_XBUTTON1)) continue;
+		if (!this->isPressed(Staller::STALL)) continue;
 
 		ZeroMemory(this->releaseInputs, sizeof(this->releaseInputs));
 		ZeroMemory(this->pressInputs, sizeof(this->pressInputs));
