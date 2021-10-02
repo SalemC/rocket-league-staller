@@ -13,6 +13,8 @@ private:
 		TURN_RIGHT = 0x44,
 		JUMP = 0x02,
 
+		STALL = 0x05,
+
 		VK_UNDEFINED = 0x07
 	};
 
